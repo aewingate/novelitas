@@ -1,9 +1,20 @@
-display_name,stub,dropdown_parent
-Home,/
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
-About,/about.html
+"display_name","stub","dropdown_parent"
+"Home","/",
+"Browse","/browse.html",
+"Subjects","/subjects.html",
+"Timeline","/timeline.html",
+"Data","/data.html",
+"About",,
+"About the collection","/about.html","About"
+"People","/people.html","About"
+"Technical documentation","/technical.html","About"
+"Explore the series",,
+"La Novela Corta","/corta.html","Explore the series"
+"La Novela Teatral","/teatral.html","Explore the series"
+"La Novela Cómica","/comica.html","Explore the series"
+"Historical context",,
+"Advertising","/advertising.html","Historical context"
+"Publishing circumstances","/publishing.html","Historical context"
+"Reading public","/readers.html","Historical context"
+"Bibliography","/bibliography.html",
+"Related resources","/resources.html",

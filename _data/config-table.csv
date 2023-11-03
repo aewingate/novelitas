@@ -1,13 +1,5 @@
-"field","display_name"
-"title","Title"
-"date","Date"
-"creator","Author"
-"translator","Translator"
-"date","Publication Date"
-"publisher","Publisher"
-"location","Place of Publication"
-"series","Series"
-"year","Year"
-"number","Number"
-"price","Price"
-"pages","Pages"
+field,display_name
+title,Title
+date,Date
+description,Description
+subject,Subjects

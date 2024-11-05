@@ -8,7 +8,8 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: /images/site_header.jpg
+# featured-image: /images/site_header.jpg
+featured-image: https://www.travelindiana.com/wp-content/uploads/2021/08/080621_Article_Graphics_1200x400_72dpi.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom

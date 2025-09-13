@@ -10,9 +10,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the Platform" %}
 
-## About the Collection
-اٹ از مائی بک
-This site contains digitized and OCRed copies from three popular pamphlet novel series printed in the early 20th century in Spain. All of the pamphlet novels are in the public domain, so you are welcome to download, share, and teach with the items displayed here.
+## About the Collection  
+This site contains digitized and OCRed copies from three popular pamphlet novel series printed in the early 20th century in Spain. All of the pamphlet novels are in the public domain, so you are welcome to download, share, and teach with the items displayed here  
+
 In addition, this site contains contextual material on the readers and the publishers of these types of ephemeral reading material, as well as information about the three different series: La Novela Corta, La Novela Cómica, and La Novela Teatral. Included at the end of the exhibit for each of the three series are a links to other digitized issues. Between the three series, there are about 170 issues listed in addition to the nine included here!
 
 ## About the Platform
